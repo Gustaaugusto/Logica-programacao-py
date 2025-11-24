@@ -1,0 +1,5 @@
+print(11 + 10 + 1000)
+print(float(1.5 + 1.5))
+print(True)
+print(False)
+print("Sou lindo!")
